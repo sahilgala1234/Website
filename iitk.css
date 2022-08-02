@@ -1,0 +1,39 @@
+h1{
+    font-family:cursive;
+    letter-spacing:0.05px;
+    line-height-step: 1.5em;
+    font-size:3em;
+    background-color: rgb(227, 242, 247);
+    padding:30px 25px 40px 25px;
+}
+.logo
+{
+    font-size:larger;
+    background-color: azure;
+    padding-left: 10px;
+}
+#float
+{
+    float:left;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+}
+#council
+{
+    background-color:hsl(59, 89%, 67%);
+ padding: 5px 20px 5px 20px;
+    font-size: larger;
+}
+#snt
+{
+  padding: 10px;
+    float:left;
+}
+.snt{
+    font-size: 2em;
+font-style: italic;
+}
+
+
